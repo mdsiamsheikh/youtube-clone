@@ -17,4 +17,11 @@ export default {
 };
 </script>
 
-<style></style>
+<style>
+.contaner {
+  height: calc(100vh - 70px);
+  display: flex;
+  overflow: hidden;
+  background: #f9f9f9;
+}
+</style>
