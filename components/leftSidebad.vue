@@ -16,7 +16,7 @@
             ></path>
           </g>
         </svg>
-        <h4>Home</h4>
+        <span>Home</span>
       </div>
       <div class="sidbar-categoru">
         <svg
@@ -33,7 +33,7 @@
             ></path>
           </g>
         </svg>
-        <h4>About</h4>
+        <span>About</span>
       </div>
       <div class="sidbar-categoru">
         <svg
@@ -55,7 +55,7 @@
             ></path>
           </g>
         </svg>
-        <h4>Shorts</h4>
+        <span>Shorts</span>
       </div>
       <div class="sidbar-categoru">
         <svg
@@ -72,14 +72,16 @@
             ></path>
           </g>
         </svg>
-        <h4>Subscription</h4>
+        <span>Subscription</span>
       </div>
     </div>
 
     <hr />
 
+    <!-- Libray -->
+
     <div class="sidebar-categoriess">
-      <div class="sidbar-categorus">
+      <a href="#" class="sidbar-categorus">
         <svg
           viewBox="0 0 24 24"
           preserveAspectRatio="xMidYMid meet"
@@ -94,9 +96,9 @@
             ></path>
           </g>
         </svg>
-        <h4>Libray</h4>
-      </div>
-      <div class="sidbar-categorus">
+        <span>Libray</span>
+      </a>
+      <a href="#" class="sidbar-categorus">
         <svg
           viewBox="0 0 24 24"
           preserveAspectRatio="xMidYMid meet"
@@ -111,9 +113,9 @@
             ></path>
           </g>
         </svg>
-        <h4>History</h4>
-      </div>
-      <div class="sidbar-categorus">
+        <span>History</span>
+      </a>
+      <a href="#" class="sidbar-categorus">
         <svg
           viewBox="0 0 24 24"
           preserveAspectRatio="xMidYMid meet"
@@ -128,9 +130,9 @@
             ></path>
           </g>
         </svg>
-        <h4>Your videos</h4>
-      </div>
-      <div class="sidbar-categorus">
+        <span>Your videos</span>
+      </a>
+      <a href="#" class="sidbar-categorus">
         <svg
           viewBox="0 0 24 24"
           preserveAspectRatio="xMidYMid meet"
@@ -145,9 +147,9 @@
             ></path>
           </g>
         </svg>
-        <h4>Watch later</h4>
-      </div>
-      <div class="sidbar-categorus">
+        <span>Watch later</span>
+      </a>
+      <a href="#" class="sidbar-categorus">
         <svg
           viewBox="0 0 24 24"
           preserveAspectRatio="xMidYMid meet"
@@ -162,8 +164,8 @@
             ></path>
           </g>
         </svg>
-        <h4>Liked videos</h4>
-      </div>
+        <span>Liked videos</span>
+      </a>
     </div>
     <hr />
 
@@ -303,7 +305,7 @@
         </a>
       </div>
     </div>
-    <hr />
+    <hr id="border" />
   </div>
 </template>
 
@@ -331,7 +333,7 @@ export default {};
   background: #dcd9d9;
 }
 
-.sidbar_categorus h4 {
+.sidbar_categorus span {
   margin-left: 22px;
   font-size: 15px;
   color: rgb(39, 35, 35);
@@ -344,15 +346,18 @@ export default {};
   /* margin-top: 6px; */
 }
 
+a {
+  text-decoration: none;
+}
+
 .sidbar-categoru {
   display: flex;
   align-items: center;
   padding: 10px 25px;
 }
 
-.sidbar-categoru h4 {
+.sidbar-categoru span {
   margin-left: 22px;
-  font-size: 14px;
   color: rgb(54, 48, 48);
 }
 
@@ -374,9 +379,9 @@ export default {};
   padding: 10px 25px;
 }
 
-.sidbar-categorus h4 {
+.sidbar-categorus span {
   margin-left: 22px;
-  font-size: 14px;
+  /* font-size: 14px; */
   color: rgb(71, 65, 65);
 }
 
@@ -459,5 +464,6 @@ hr {
   height: 1px;
   background-color: #dcd9d9;
   border: none;
+  margin-top: 10px;
 }
 </style>
