@@ -466,4 +466,13 @@ hr {
   border: none;
   margin-top: 10px;
 }
+
+@media (max-width: 900px) {
+  .sidebar-left {
+    display: none;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+  }
+}
 </style>

@@ -265,4 +265,10 @@ body {
   height: 34px;
   border-radius: 50%;
 }
+
+@media (max-width: 965px) {
+  .header_search {
+    display: none;
+  }
+}
 </style>

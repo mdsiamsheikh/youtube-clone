@@ -1,6 +1,6 @@
 <template>
   <div class="videos">
-    <h1>Recommended</h1>
+    <!-- <h1>Recommended</h1> -->
     <div class="videos_container">
       <!-- Single video Starts -->
       <div class="video">
