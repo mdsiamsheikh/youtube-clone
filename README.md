@@ -1,4 +1,4 @@
-# youtube-colon
+# youtube-clone
 
 ## Build Setup
 
