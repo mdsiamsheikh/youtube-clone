@@ -3,7 +3,7 @@
 
 This is a YouTube Clone Front-End built using the Vue.js framework. It includes several tech stacks, such as HTML5, CSS3, Firebase, Cloud Firestore, Vuex for state management, and Vue Router for routing. The project follows the CSS BEM Convention and is fully responsive on all devices.
 
-Live version of this site:
+Live version of this site: https://youtube88.netlify.app
 
 # Demo
 
