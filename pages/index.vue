@@ -19,7 +19,7 @@ export default {
 
 <style>
 .contaner {
-  height: calc(100vh - 70px);
+  height: calc(100vh - 90px);
   display: flex;
   overflow: hidden;
   background: #f9f9f9;

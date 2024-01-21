@@ -122,23 +122,20 @@
       <!-- Single video Six -->
       <div class="video">
         <div class="video_thumbnail">
-          <img src="../views/imeg/maxresdefault 6.jpg" alt="" />
+          <img src="../views/imeg/jairalok.jpg" alt="" />
         </div>
         <div class="video_details">
           <div class="author">
             <img
-              id="img"
-              draggable="false"
-              class="style-scope yt-img-shadow"
+              src="../views/imeg/profile.img/channels4_profile 4.jpg"
               alt=""
-              width="24"
-              src="https://yt3.ggpht.com/ytc/AMLnZu_u1V2N9MOkERzmCXGbIyYtGyIvWr-WoExj6VWB1A=s68-c-k-c0x00ffffff-no-rj"
             />
           </div>
 
           <div class="title">
-            <h3>Netherlannnnnds 8K <b />.Beautiful Scener</h3>
-            <a href="">8k videos ultra HD</a>
+            <h3>ওরা কারা (Ora Kara) - JAIRALOK & BRAVOTEAM <b /> [The Film]</h3>
+            <a>BRAVOTEAM</a>
+
             <span>828K views . 1 year ago</span>
           </div>
         </div>
@@ -163,7 +160,7 @@
           <div class="title">
             <h3>Lauterbrunnen,<br />Switzerland mosnths</h3>
             <a href="">GoodStuff</a>
-            <span>19M views . 2 yeas ago</span>
+            <span>122 views . 1 dey ago</span>
           </div>
         </div>
       </div>
@@ -201,12 +198,8 @@
         <div class="video_details">
           <div class="author">
             <img
-              id="img"
-              draggable="false"
-              class="style-scope yt-img-shadow"
+              src="../views/imeg/profile.img/channels4_profile3.jpg"
               alt=""
-              width="24"
-              src="https://yt3.ggpht.com/hZDUwjoeQqigphL4A1tkg9c6hVp5yXmbboBR7PYFUSFj5PIJSA483NB5v7b0XVoTN9GCku3tqQ=s88-c-k-c0x00ffffff-no-rj"
             />
           </div>
 
@@ -225,12 +218,8 @@
         <div class="video_details">
           <div class="author">
             <img
-              id="img"
-              draggable="false"
-              class="style-scope yt-img-shadow"
+              src="../views/imeg/profile.img/channels4_profile2.jpg"
               alt=""
-              width="24"
-              src="https://yt3.ggpht.com/ZmxzY63h2qjXdGQYTbuxzk3f6m4FxQyQcDOGKKBPYsi9R7ezujarPnztc2YcjQIh1zQ2jJzIOKY=s68-c-k-c0x00ffffff-no-rj"
             />
           </div>
 
@@ -257,12 +246,8 @@
         <div class="video_details">
           <div class="author">
             <img
-              id="img"
-              draggable="false"
-              class="style-scope yt-img-shadow"
+              src="../views/./imeg/profile.img/channels4_profile.jpg"
               alt=""
-              width="24"
-              src="https://yt3.ggpht.com/EEGERwlaKJd27zSEPQF3d__-tPyppIgFfKvNfBkWa7ssMKBWqQUbuCTLe-kAnTB1r6kJQVxyxwY=s68-c-k-c0x00ffffff-no-rj"
             />
           </div>
 
@@ -284,12 +269,8 @@
         <div class="video_details">
           <div class="author">
             <img
-              id="img"
-              draggable="false"
-              class="style-scope yt-img-shadow"
+              src="../views/imeg/profile.img/channels4_profile (1).jpg"
               alt=""
-              width="24"
-              src="https://yt3.ggpht.com/ER9EVdb_Wh6OziDgZqTnFg04AcRC54oVbfiRpeg5YXL6m5B5tM5HKZo_rlDGIpcMbaAINPQcWw=s68-c-k-c0x00ffffff-no-rj"
             />
           </div>
 
@@ -311,12 +292,8 @@
         <div class="video_details">
           <div class="author">
             <img
-              id="img"
-              draggable="false"
-              class="style-scope yt-img-shadow"
+              src="../views/imeg/profile.img/channels4_profile5.jpg"
               alt=""
-              width="24"
-              src="https://yt3.ggpht.com/Rgiz0oMdz2dELcgxaPkK5zER31b6rxE7X2lqj_8cjuZHzRfGD70kfw1HsofwLDiFOgv61eNZQQ=s68-c-k-c0x00ffffff-no-rj"
             />
           </div>
 
