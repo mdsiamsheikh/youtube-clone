@@ -3,7 +3,7 @@
     <!-- <h1>Recommended</h1> -->
     <div class="videos_container">
       <!-- Single video Starts -->
-      <div class="video">
+      <a href="#" class="video">
         <div class="video_thumbnail">
           <iframe
             src="https://www.youtube.com/embed/w9eiSy2EWH8?si=bkx1GpLxn_5V-lwW"
@@ -16,7 +16,10 @@
         </div>
         <div class="video_details">
           <div class="author">
-            <img src="../views/imeg/profile.img/275750347_1.jpg" alt="" />
+            <img
+              src="../views/imeg/profile.img/channels4_profile 6.jpg"
+              alt=""
+            />
           </div>
 
           <div class="title">
@@ -28,10 +31,10 @@
             <span>5k views . Months Ago</span>
           </div>
         </div>
-      </div>
+      </a>
 
-      <!-- Single video Sacean -->
-      <div class="video">
+      <!-- Single video Savean -->
+      <a href="#" class="video">
         <div class="video_thumbnail">
           <iframe
             width="560"
@@ -47,12 +50,8 @@
         <div class="video_details">
           <div class="author">
             <img
-              id="img"
-              draggable="false"
-              class="style-scope yt-img-shadow"
+              src="../views/imeg/profile.img/channels4_profile (3).jpg"
               alt=""
-              width="24"
-              src="https://yt3.ggpht.com/-Weca7gZCAF0tBcPwbpITNNyT8Rp2omE9U4Puf8L2JmG7k7eF5hkfA74fFftt-NR4A-ajJcbwFM=s68-c-k-c0x00ffffff-no-rj"
             />
           </div>
 
@@ -62,9 +61,9 @@
             <span>1.4M views . 1 Year ago</span>
           </div>
         </div>
-      </div>
+      </a>
       <!-- Single video Thred -->
-      <div class="video">
+      <a href="#" class="video">
         <div class="video_thumbnail">
           <iframe
             width="560"
@@ -98,9 +97,9 @@
             <span>1M views . Months Ago</span>
           </div>
         </div>
-      </div>
+      </a>
       <!-- Single video Fore -->
-      <div class="video">
+      <a href="#" class="video">
         <div class="video_thumbnail">
           <iframe
             width="560"
@@ -123,9 +122,9 @@
             <span>73K views . 1 months ago</span>
           </div>
         </div>
-      </div>
+      </a>
       <!-- Single video Five -->
-      <div class="video">
+      <a href="#" class="video">
         <div class="video_thumbnail">
           <iframe
             width="560"
@@ -156,9 +155,9 @@
             <span>3.9M views . 1 year ago</span>
           </div>
         </div>
-      </div>
+      </a>
       <!-- Single video Six -->
-      <a class="video">
+      <a href="#" class="video">
         <div class="video_thumbnail">
           <iframe
             width="300"
@@ -188,12 +187,12 @@
         </div>
       </a>
       <!-- Single video Siven -->
-      <div class="video">
+      <a href="#" class="video">
         <div class="video_thumbnail">
           <iframe
             width="560"
             height="315"
-            src="https://www.youtube.com/embed/N5h58qyr1zI?si=TmhScPB623e0z-VU"
+            src="https://www.youtube.com/embed/ZmDG3vjAlNA?si=Mc1rivH4ntXW7idB"
             title="YouTube video player"
             frameborder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -204,12 +203,8 @@
         <div class="video_details">
           <div class="author">
             <img
-              id="img"
-              draggable="false"
-              class="style-scope yt-img-shadow"
+              src="../views/imeg/profile.img/channels4_profile (3).jpg"
               alt=""
-              width="24"
-              src="https://yt3.ggpht.com/ruaZAFk8LgaR4M4LjloeWnzJ2hZ_3YozOUNFsi-Ac_ozQjPQQLHGeuK-11rS55Ez3f7ysRR7=s68-c-k-c0x00ffffff-no-rj"
             />
           </div>
 
@@ -219,10 +214,10 @@
             <span>122 views . 1 dey ago</span>
           </div>
         </div>
-      </div>
+      </a>
 
       <!-- Single video Eight -->
-      <div class="video">
+      <a href="#" class="video">
         <div class="video_thumbnail">
           <iframe
             width="560"
@@ -237,14 +232,7 @@
         </div>
         <div class="video_details">
           <div class="author">
-            <img
-              id="img"
-              draggable="false"
-              class="style-scope yt-img-shadow"
-              alt=""
-              width="24"
-              src="https://yt3.ggpht.com/mFSCqiot6mjEbniR-uqMGnRcekR4BbU3gg5O5_qb9KUlZlVlXXnSwM5ngs3dzuWpEt65lvGJzA=s68-c-k-c0x00ffffff-no-rj"
-            />
+            <img src="../views/imeg/profile.img/channels4_profile.jpg" alt="" />
           </div>
 
           <div class="title">
@@ -256,10 +244,10 @@
             <span>948M views . 6 yeas ago</span>
           </div>
         </div>
-      </div>
+      </a>
 
       <!-- Single video Nine -->
-      <div class="video">
+      <a href="#" class="video">
         <div class="video_thumbnail">
           <iframe
             width="560"
@@ -286,9 +274,9 @@
             <span>482M views . 4 months ago</span>
           </div>
         </div>
-      </div>
+      </a>
       <!-- Single video Tane -->
-      <div class="video">
+      <a href="#" class="video">
         <div class="video_thumbnail">
           <iframe
             width="560"
@@ -318,9 +306,9 @@
             <span>47M views . 1 month ago</span>
           </div>
         </div>
-      </div>
+      </a>
       <!-- Single video Eleven -->
-      <div class="video">
+      <a href="#" class="video">
         <div class="video_thumbnail">
           <iframe
             width="560"
@@ -349,9 +337,9 @@
             <span>218M views . 5 year Ago</span>
           </div>
         </div>
-      </div>
+      </a>
       <!-- Single video T12 -->
-      <div class="video">
+      <a href="#" class="video">
         <div class="video_thumbnail">
           <iframe
             width="560"
@@ -381,9 +369,9 @@
             <span>7.8M views . 6 months ago</span>
           </div>
         </div>
-      </div>
+      </a>
       <!-- Single video T13 -->
-      <div class="video">
+      <a href="#" class="video">
         <div class="video_thumbnail">
           <iframe
             width="560"
@@ -410,9 +398,9 @@
             <span>124M views . 1 year ago</span>
           </div>
         </div>
-      </div>
+      </a>
       <!-- Single video FT14 -->
-      <div class="video">
+      <a href="#" class="video">
         <div class="video_thumbnail">
           <iframe
             width="560"
@@ -446,9 +434,9 @@
             <span>76M views . 1 year ago</span>
           </div>
         </div>
-      </div>
+      </a>
       <!-- Single video FIT15 -->
-      <div class="video">
+      <a href="#" class="video">
         <div class="video_thumbnail">
           <iframe
             width="560"
@@ -481,7 +469,39 @@
             <span>80k views . 2Months Ago</span>
           </div>
         </div>
-      </div>
+      </a>
+      <!-- Single video FIT16 -->
+
+      <a href="#" class="video">
+        <div class="video_thumbnail">
+          <iframe
+            width="560"
+            height="315"
+            src="https://www.youtube.com/embed/AsCkU0gNTwM?si=FxF-9sTafXRwEzAC"
+            title="YouTube video player"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allowfullscreen
+          ></iframe>
+          <!-- <img src="../views/imeg/hqdefault 16.jpg" alt="" /> -->
+        </div>
+        <div class="video_details">
+          <div class="author">
+            <img
+              src="../views/imeg/profile.img/channels4_profile 6.jpg"
+              alt=""
+            />
+          </div>
+
+          <div class="title">
+            <h3>
+              যে ৫টি অভ্যাস আমাকে ইংরেজি শিখতে অনেক Help করেছে <br />Used, Easy
+            </h3>
+            <a href="">Munzereen Shahid</a>
+            <span>80k views . 2Months Ago</span>
+          </div>
+        </div>
+      </a>
     </div>
   </div>
 </template>
