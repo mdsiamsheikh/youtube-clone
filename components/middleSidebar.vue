@@ -5,7 +5,14 @@
       <!-- Single video Starts -->
       <div class="video">
         <div class="video_thumbnail">
-          <img src="../views/imeg/7153805675348660918 17.png" alt="" />
+          <iframe
+            src="https://www.youtube.com/embed/w9eiSy2EWH8?si=bkx1GpLxn_5V-lwW"
+            title="YouTube video player"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allowfullscreen
+          ></iframe>
+          <!-- <img src="../views/imeg/7153805675348660918 17.png" alt="" /> -->
         </div>
         <div class="video_details">
           <div class="author">
@@ -14,11 +21,11 @@
 
           <div class="title">
             <h3>
-              #1 Course to Learn <br />
-              JavaScript -Enroll and Starts
+              Introducing heyLuna.ai <br />
+              Your Own Personal AI assistant
             </h3>
             <a href="">Connekt Studio</a>
-            <span>1M views . Months Ago</span>
+            <span>5k views . Months Ago</span>
           </div>
         </div>
       </div>
@@ -26,7 +33,16 @@
       <!-- Single video Sacean -->
       <div class="video">
         <div class="video_thumbnail">
-          <img src="../views/imeg/a8.jpg" alt="" />
+          <iframe
+            width="560"
+            height="315"
+            src="https://www.youtube.com/embed/5kozt0uDa4c?si=xBkWzU8OO5PnWEfK"
+            title="YouTube video player"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allowfullscreen
+          ></iframe>
+          <!-- <img src="../views/imeg/a8.jpg" alt="" /> -->
         </div>
         <div class="video_details">
           <div class="author">
@@ -50,7 +66,16 @@
       <!-- Single video Thred -->
       <div class="video">
         <div class="video_thumbnail">
-          <img src="../views/imeg/bangladesh-4690975__480.jpg" alt="" />
+          <iframe
+            width="560"
+            height="315"
+            src="https://www.youtube.com/embed/vlbF9imkUMM?si=D8gok3sntklQoDBT"
+            title="YouTube video player"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allowfullscreen
+          ></iframe>
+          <!-- <img src="../views/imeg/bangladesh-4690975__480.jpg" alt="" /> -->
         </div>
         <div class="video_details">
           <div class="author">
@@ -77,11 +102,15 @@
       <!-- Single video Fore -->
       <div class="video">
         <div class="video_thumbnail">
-          <img
-            style="background-color: transparent"
-            class="yt-core-image--fill-parent-height yt-core-image--fill-parent-width yt-core-image yt-core-image--content-mode-scale-aspect-fill yt-core-image--loaded"
-            src="https://i.ytimg.com/vi/YSN4rbLToaI/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&amp;rs=AOn4CLDg4EGrtMwHJm_J2f_STe9Fzn0MYg"
-          />
+          <iframe
+            width="560"
+            height="315"
+            src="https://www.youtube.com/embed/YSN4rbLToaI?si=hDwaOKrB7AVm3Qg0"
+            title="YouTube video player"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allowfullscreen
+          ></iframe>
         </div>
         <div class="video_details">
           <div class="author">
@@ -98,7 +127,16 @@
       <!-- Single video Five -->
       <div class="video">
         <div class="video_thumbnail">
-          <img src="../views/imeg/download1.jpg" alt="" />
+          <iframe
+            width="560"
+            height="315"
+            src="https://www.youtube.com/embed/linlz7-Pnvw?si=3JMEfC1JkN7S-fK5"
+            title="YouTube video player"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allowfullscreen
+          ></iframe>
+          <!-- <img src="../views/imeg/download1.jpg" alt="" /> -->
         </div>
         <div class="video_details">
           <div class="author">
@@ -120,9 +158,18 @@
         </div>
       </div>
       <!-- Single video Six -->
-      <div class="video">
+      <a class="video">
         <div class="video_thumbnail">
-          <img src="../views/imeg/jairalok.jpg" alt="" />
+          <iframe
+            width="300"
+            height="170"
+            src="https://www.youtube.com/embed/tQvlemWLu70?si=ouvSPXamRfWo7XeN"
+            title="YouTube video player"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allowfullscreen
+          ></iframe>
+          <!-- <img src="../views/imeg/jairalok.jpg" alt="" /> -->
         </div>
         <div class="video_details">
           <div class="author">
@@ -139,11 +186,20 @@
             <span>828K views . 1 year ago</span>
           </div>
         </div>
-      </div>
+      </a>
       <!-- Single video Siven -->
       <div class="video">
         <div class="video_thumbnail">
-          <img src="../views/imeg/wallpaper-preview 4.jpg" alt="" />
+          <iframe
+            width="560"
+            height="315"
+            src="https://www.youtube.com/embed/N5h58qyr1zI?si=TmhScPB623e0z-VU"
+            title="YouTube video player"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allowfullscreen
+          ></iframe>
+          <!-- <img src="../views/imeg/wallpaper-preview 4.jpg" alt="" /> -->
         </div>
         <div class="video_details">
           <div class="author">
@@ -168,7 +224,16 @@
       <!-- Single video Eight -->
       <div class="video">
         <div class="video_thumbnail">
-          <img src="../views/imeg/Passerina_ciris-20090208 7.jpg" alt="" />
+          <iframe
+            width="560"
+            height="315"
+            src="https://www.youtube.com/embed/_iktURk0X-A?si=S6TgSUgOxVs8gRAn"
+            title="YouTube video player"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allowfullscreen
+          ></iframe>
+          <!-- <img src="../views/imeg/Passerina_ciris-20090208 7.jpg" alt="" /> -->
         </div>
         <div class="video_details">
           <div class="author">
@@ -183,9 +248,12 @@
           </div>
 
           <div class="title">
-            <h3>Painted bunting<br />Wikipedia</h3>
-            <a href="">Wild Animais</a>
-            <span>19M views . 4 yeas ago</span>
+            <h3>
+              Phir Bhi Tumko Chaahunga <br />
+              Arijit Singh
+            </h3>
+            <a href="">Zee Music Company </a>
+            <span>948M views . 6 yeas ago</span>
           </div>
         </div>
       </div>
@@ -193,7 +261,16 @@
       <!-- Single video Nine -->
       <div class="video">
         <div class="video_thumbnail">
-          <img src="../views/imeg/black-pink-kpop 8.jpg" alt="" />
+          <iframe
+            width="560"
+            height="315"
+            src="https://www.youtube.com/embed/2S24-y0Ij3Y?si=gkIS7iqaS32N0ZD_"
+            title="YouTube video player"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allowfullscreen
+          ></iframe>
+          <!-- <img src="../views/imeg/black-pink-kpop 8.jpg" alt="" /> -->
         </div>
         <div class="video_details">
           <div class="author">
@@ -213,7 +290,16 @@
       <!-- Single video Tane -->
       <div class="video">
         <div class="video_thumbnail">
-          <img src="../views/imeg/Avatar_Way_of_ 9.jpg" alt="" />
+          <iframe
+            width="560"
+            height="315"
+            src="https://www.youtube.com/embed/mPz6ELq9dNk?si=YNi50RZxYwe_jm8X"
+            title="YouTube video player"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allowfullscreen
+          ></iframe>
+          <!-- <img src="../views/imeg/Avatar_Way_of_ 9.jpg" alt="" /> -->
         </div>
         <div class="video_details">
           <div class="author">
@@ -236,12 +322,15 @@
       <!-- Single video Eleven -->
       <div class="video">
         <div class="video_thumbnail">
-          <img
-            alt=""
-            style="background-color: transparent"
-            class="yt-core-image--fill-parent-height yt-core-image--fill-parent-width yt-core-image yt-core-image--content-mode-scale-aspect-fill yt-core-image--loaded"
-            src="https://i.ytimg.com/vi/FGTv9-oQhIg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&amp;rs=AOn4CLArHMglAfZmh6CfisYbFyo1lpGz9A"
-          />
+          <iframe
+            width="560"
+            height="315"
+            src="https://www.youtube.com/embed/FGTv9-oQhIg?si=2MxhIVdOWEHKNPUl"
+            title="YouTube video player"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allowfullscreen
+          ></iframe>
         </div>
         <div class="video_details">
           <div class="author">
@@ -264,7 +353,16 @@
       <!-- Single video T12 -->
       <div class="video">
         <div class="video_thumbnail">
-          <img src="../views/imeg/maxresdefault 12.jpg" alt="" />
+          <iframe
+            width="560"
+            height="315"
+            src="https://www.youtube.com/embed/wjVbuVNWIA0?si=6cy86OvDsdsP1R-I"
+            title="YouTube video player"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allowfullscreen
+          ></iframe>
+          <!-- <img src="../views/imeg/maxresdefault 12.jpg" alt="" /> -->
         </div>
         <div class="video_details">
           <div class="author">
@@ -287,7 +385,16 @@
       <!-- Single video T13 -->
       <div class="video">
         <div class="video_thumbnail">
-          <img src="../views/imeg/sddefault 13.jpg" alt="" />
+          <iframe
+            width="560"
+            height="315"
+            src="https://www.youtube.com/embed/IMzrEjLzvjI?si=WQYz2gPiDVCKNLGb"
+            title="YouTube video player"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allowfullscreen
+          ></iframe>
+          <!-- <img src="../views/imeg/sddefault 13.jpg" alt="" /> -->
         </div>
         <div class="video_details">
           <div class="author">
@@ -307,7 +414,16 @@
       <!-- Single video FT14 -->
       <div class="video">
         <div class="video_thumbnail">
-          <img src="../views/imeg/Neymar-15.jpg" alt="" />
+          <iframe
+            width="560"
+            height="315"
+            src="https://www.youtube.com/embed/CL7HQA7a8Zs?si=RWd7-ZczVvhoypwU"
+            title="YouTube video player"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allowfullscreen
+          ></iframe>
+          <!-- <img src="../views/imeg/Neymar-15.jpg" alt="" /> -->
         </div>
         <div class="video_details">
           <div class="author">
@@ -334,7 +450,16 @@
       <!-- Single video FIT15 -->
       <div class="video">
         <div class="video_thumbnail">
-          <img src="../views/imeg/hqdefault 16.jpg" alt="" />
+          <iframe
+            width="560"
+            height="315"
+            src="https://www.youtube.com/embed/EJi2vjDfCGQ?si=4-jO3viFlasVWa7d"
+            title="YouTube video player"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            allowfullscreen
+          ></iframe>
+          <!-- <img src="../views/imeg/hqdefault 16.jpg" alt="" /> -->
         </div>
         <div class="video_details">
           <div class="author">
@@ -349,7 +474,9 @@
           </div>
 
           <div class="title">
-            <h3>৩০ মিনিটে ৩০টি Most <br />Used, Easy</h3>
+            <h3>
+              যে ৫টি অভ্যাস আমাকে ইংরেজি শিখতে অনেক Help করেছে <br />Used, Easy
+            </h3>
             <a href="">Munzereen Shahid</a>
             <span>80k views . 2Months Ago</span>
           </div>
@@ -368,7 +495,7 @@ export default {};
   background: #f9f9f9;
   width: 100%;
   height: 100%;
-  padding: 15px 25px;
+  padding: 15px 12px;
   border-top: 1px solid #ddd;
   overflow-y: scroll;
 }
@@ -381,7 +508,8 @@ export default {};
 }
 
 .video {
-  width: 310px;
+  width: 370px;
+
   margin-right: 10px;
   margin-bottom: 30px;
 }
@@ -390,7 +518,7 @@ export default {};
   width: 100%;
   height: 170px;
 }
-.video_thumbnail img {
+.video_thumbnail iframe {
   object-fit: cover;
   border-radius: 15px;
   height: 100%;
