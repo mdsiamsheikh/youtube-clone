@@ -78,14 +78,7 @@
         </div>
         <div class="video_details">
           <div class="author">
-            <img
-              id="img"
-              draggable="false"
-              class="style-scope yt-img-shadow"
-              alt=""
-              width="24"
-              src="https://yt3.ggpht.com/ytc/AMLnZu-s0a6yF7rDDZ1NDH9KMO0pMV4WIExDaI28K4gLLw=s68-c-k-c0x00ffffff-no-rj"
-            />
+            <img src="../views/imeg/profile.img/unnamed.jpg" alt="" />
           </div>
 
           <div class="title">
