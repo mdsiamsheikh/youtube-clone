@@ -158,23 +158,46 @@
           </svg>
         </div>
       </div>
-      <div class="header_icon">
-        <img
-          id="img"
-          draggable="false"
-          class="style-scope yt-img-shadow"
-          alt="Avatar image"
-          height="32"
-          width="32"
-          src="https://yt3.ggpht.com/yti/AJo0G0lNkVXcq8SvoYWbDoixmpoT54WLHdZfM_Ysc5Q5=s88-c-k-c0x00ffffff-no-rj-mo"
-        />
+      <div>
+        <div class="header_icon">
+          <img
+            @click.stop="togglePopup"
+            id="img"
+            draggable="false"
+            class="style-scope yt-img-shadow"
+            alt="Avatar image"
+            height="32"
+            width="32"
+            :src="avatarSrc"
+          />
+        </div>
+        <div v-if="showPopup" class="popup">
+          <p>This is your popup content.</p>
+          <button @click="closePopup">Close</button>
+        </div>
       </div>
     </div>
   </div>
 </template>
 
 <script>
-export default {};
+export default {
+  data() {
+    return {
+      showPopup: false,
+      avatarSrc:
+        "https://yt3.ggpht.com/yti/AJo0G0lNkVXcq8SvoYWbDoixmpoT54WLHdZfM_Ysc5Q5=s88-c-k-c0x00ffffff-no-rj-mo",
+    };
+  },
+  methods: {
+    togglePopup() {
+      this.showPopup = !this.showPopup;
+    },
+    closePopup() {
+      this.showPopup = false;
+    },
+  },
+};
 </script>
 
 <style>
@@ -188,16 +211,30 @@ body {
   font-family: "Roboto", sans-serif;
 }
 
+.popup {
+  width: 300px;
+  height: 50vh;
+  position: fixed;
+  top: 3.7rem;
+  right: 30px;
+  border-radius: 5px;
+  background: #ffffff;
+  border: 1px solid #ffffff;
+  box-shadow: 0 0 10px #ffffff;
+  z-index: 1000;
+}
+
 .header {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  background-color: #f7f6f6;
 }
 
 .header_left {
   display: flex;
   align-items: center;
-  margin-left: 35px;
+  margin-left: 22px;
   cursor: pointer;
   gap: 20px;
 }
@@ -282,6 +319,7 @@ button {
   align-items: center;
   margin-right: 25px;
   gap: 20px;
+  cursor: pointer;
 }
 
 .header_icon {
@@ -294,6 +332,7 @@ button {
   display: flex;
   width: 40px;
   padding: 7px;
+  cursor: pointer;
 }
 
 .header_icon-svg:hover {
