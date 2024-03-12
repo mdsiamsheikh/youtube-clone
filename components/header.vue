@@ -172,8 +172,7 @@
           />
         </div>
         <div v-if="showPopup" class="popup">
-          <p>This is your popup content.</p>
-          <button @click="closePopup">Close</button>
+          <home-navbar></home-navbar>
         </div>
       </div>
     </div>
@@ -181,7 +180,10 @@
 </template>
 
 <script>
+import HomeNavbar from "./HomeNavbar.vue";
+
 export default {
+  components: { HomeNavbar },
   data() {
     return {
       showPopup: false,
@@ -192,9 +194,6 @@ export default {
   methods: {
     togglePopup() {
       this.showPopup = !this.showPopup;
-    },
-    closePopup() {
-      this.showPopup = false;
     },
   },
 };
@@ -212,8 +211,8 @@ body {
 }
 
 .popup {
-  width: 300px;
-  height: 50vh;
+  /* width: 300px;
+  height: 50vh; */
   position: fixed;
   top: 3.7rem;
   right: 30px;
