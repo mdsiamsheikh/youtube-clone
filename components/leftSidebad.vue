@@ -313,7 +313,7 @@
 export default {};
 </script>
 
-<style>
+<style scoped>
 .sidebar-left {
   height: 100%;
   width: 230px;
@@ -343,7 +343,7 @@ export default {};
   display: flex;
   flex-direction: column;
   margin-bottom: 15px;
-  /* margin-top: 6px; */
+  margin-top: 12px;
 }
 
 a {
