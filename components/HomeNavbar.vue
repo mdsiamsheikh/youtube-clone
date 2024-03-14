@@ -46,7 +46,28 @@
             d="M4 20h14v1H3V6h1v14zM6 3v15h15V3H6zm2.02 14c.36-2.13 1.93-4.1 5.48-4.1s5.12 1.97 5.48 4.1H8.02zM11 8.5a2.5 2.5 0 015 0 2.5 2.5 0 01-5 0zm3.21 3.43A3.507 3.507 0 0017 8.5C17 6.57 15.43 5 13.5 5S10 6.57 10 8.5c0 1.69 1.2 3.1 2.79 3.43-3.48.26-5.4 2.42-5.78 5.07H7V4h13v13h-.01c-.38-2.65-2.31-4.81-5.78-5.07z"
           ></path>
         </svg>
-        <span>Switch account</span>
+        <div class="siam">
+          <span>Switch account</span>
+        </div>
+        <div class="sidbar_lasden">
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            height="24"
+            viewBox="0 0 24 24"
+            width="24"
+            focusable="false"
+            style="
+              pointer-events: none;
+              display: inherit;
+              width: 24;
+              height: 24;
+            "
+          >
+            <path
+              d="m9.4 18.4-.7-.7 5.6-5.6-5.7-5.7.7-.7 6.4 6.4-6.3 6.3z"
+            ></path>
+          </svg>
+        </div>
       </div>
       <div class="sidbar-categoru">
         <svg
@@ -73,53 +94,52 @@
         <div class="items_1">
           <a href="#" class="items_2"
             ><svg
+              xmlns="http://www.w3.org/2000/svg"
+              enable-background="new 0 0 24 24"
+              height="24"
               viewBox="0 0 24 24"
-              preserveAspectRatio="xMidYMid meet"
+              width="24"
               focusable="false"
-              class="style-scope yt-icon"
               style="
                 pointer-events: none;
-                display: block;
+                display: inherit;
                 width: 24;
                 height: 24;
               "
             >
-              <g class="style-scope yt-icon">
-                <path
-                  d="M10,12H8v2H6v-2H4v-2h2V8h2v2h2V12z M17,12.5c0-0.83-0.67-1.5-1.5-1.5S14,11.67,14,12.5c0,0.83,0.67,1.5,1.5,1.5 S17,13.33,17,12.5z M20,9.5C20,8.67,19.33,8,18.5,8S17,8.67,17,9.5c0,0.83,0.67,1.5,1.5,1.5S20,10.33,20,9.5z M16.97,5.15l-4.5,2.53 l-0.49,0.27l-0.49-0.27l-4.5-2.53L3,7.39v6.43l8.98,5.04l8.98-5.04V7.39L16.97,5.15 M16.97,4l4.99,2.8v7.6L11.98,20L2,14.4V6.8 L6.99,4l4.99,2.8L16.97,4L16.97,4z"
-                  class="style-scope yt-icon"
-                ></path>
-              </g>
+              <path
+                d="M10 9.35 15 12l-5 2.65ZM12 3a.73.73 0 00-.31.06L4.3 7.28a.79.79 0 00-.3.52v8.4a.79.79 0 00.3.52l7.39 4.22a.83.83 0 00.62 0l7.39-4.22a.79.79 0 00.3-.52V7.8a.79.79 0 00-.3-.52l-7.39-4.22A.73.73 0 0012 3m0-1a1.6 1.6 0 01.8.19l7.4 4.22A1.77 1.77 0 0121 7.8v8.4a1.77 1.77 0 01-.8 1.39l-7.4 4.22a1.78 1.78 0 01-1.6 0l-7.4-4.22A1.77 1.77 0 013 16.2V7.8a1.77 1.77 0 01.8-1.39l7.4-4.22A1.6 1.6 0 0112 2Zm0 4a.42.42 0 00-.17 0l-4.7 2.8a.59.59 0 00-.13.39v5.61a.65.65 0 00.13.37l4.7 2.8A.42.42 0 0012 18a.34.34 0 00.17 0l4.7-2.81a.56.56 0 00.13-.39V9.19a.62.62 0 00-.13-.37L12.17 6A.34.34 0 0012 6m0-1a1.44 1.44 0 01.69.17L17.39 8A1.46 1.46 0 0118 9.19v5.61a1.46 1.46 0 01-.61 1.2l-4.7 2.81A1.44 1.44 0 0112 19a1.4 1.4 0 01-.68-.17L6.62 16A1.47 1.47 0 016 14.8V9.19A1.47 1.47 0 016.62 8l4.7-2.8A1.4 1.4 0 0112 5Z"
+              ></path>
             </svg>
-            <span> Gaming </span>
+            <span> YouTube Studio </span>
           </a>
         </div>
         <div class="items_1">
           <a href="#" class="items_2"
             ><svg
+              xmlns="http://www.w3.org/2000/svg"
+              enable-background="new 0 0 24 24"
+              height="24"
               viewBox="0 0 24 24"
-              preserveAspectRatio="xMidYMid meet"
+              width="24"
               focusable="false"
-              class="style-scope yt-icon"
               style="
                 pointer-events: none;
-                display: block;
+                display: inherit;
                 width: 24;
                 height: 24;
               "
             >
-              <g class="style-scope yt-icon">
-                <path
-                  d="M17 3V5V6V10V10.51L16.99 10.97C16.94 13.1 15.66 14.94 13.74 15.67H13.72L13.66 15.69L13 15.95V16.65V19V20H14V21H15H10V20H11V19V16.65V15.95L10.34 15.71L10.26 15.68H10.25C8.33 14.95 7.05 13.11 7 10.98V10.51V10V6V5V3H17ZM18 2H6V5H4V6V10V11H6.01C6.07 13.53 7.63 15.78 9.97 16.64C9.98 16.64 9.99 16.64 10 16.65V19H9V20H8V22H16V20H15V19H14V16.65C14.01 16.65 14.02 16.65 14.03 16.64C16.36 15.78 17.93 13.54 17.99 11H20V10V6V5H18V2ZM18 10V6H19V10H18ZM5 10V6H6V10H5Z"
-                  class="style-scope yt-icon"
-                ></path>
-              </g>
+              <path
+                d="M12 3c4.96 0 9 4.04 9 9s-4.04 9-9 9-9-4.04-9-9 4.04-9 9-9m0-1C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm4 7V7h-3V5h-2v2h-1c-1.1 0-2 .9-2 2v2c0 1.1.9 2 2 2h4v2H8v2h3v2h2v-2h1c1.1 0 2-.9 2-2v-2c0-1.1-.9-2-2-2h-4V9h6z"
+              ></path>
             </svg>
-            <span> Sports</span>
+            <span> Purchases and memberships</span>
           </a>
         </div>
       </div>
     </div>
+    <hr class="hr" />
   </div>
 </template>
 
@@ -171,6 +191,7 @@ img {
 .hr {
   margin-top: 12px;
 }
+
 /* header end */
 
 /* Google */
@@ -202,6 +223,15 @@ a {
   padding: 9px 15px;
 }
 
+.siam {
+  display: flex;
+  width: 100%;
+}
+
+.sidbar_lasden {
+  margin-left: 10px;
+}
+
 .sidbar-categoru span {
   margin-left: 22px;
   color: rgb(54, 48, 48);
@@ -212,7 +242,7 @@ a {
   cursor: pointer;
 }
 
-.sidebar-categoriess {
+.sidebar-categories {
   display: flex;
   flex-direction: column;
   margin-bottom: 15px;
