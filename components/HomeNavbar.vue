@@ -8,7 +8,7 @@
         alt=""
         height="40"
         width="40"
-        src="https://yt3.ggpht.com/r0OHzZ05dh4t4UBiBDkL28Vr1AK8q7vIGH9LeOeReP_lyE9zuXAfOzJtfCQmQzDfP1B25TK_Nw=s108-c-k-c0x00ffffff-no-rj"
+        src="https://yt3.ggpht.com/yti/AJo0G0lNkVXcq8SvoYWbDoixmpoT54WLHdZfM_Ysc5Q5=s88-c-k-c0x00ffffff-no-rj-mo"
       />
       <div class="popup-img">
         <p>Siam Sheikh</p>
@@ -140,6 +140,217 @@
       </div>
     </div>
     <hr class="hr" />
+
+    <div class="settings_item">
+      <div class="active">
+        <a href="#" class="items">
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            height="24"
+            viewBox="0 0 24 24"
+            width="24"
+            focusable="false"
+            style="
+              pointer-events: none;
+              display: inherit;
+              width: 24;
+              height: 24;
+            "
+          >
+            <path
+              d="m12 3.06 7 3.21v4.84c0 1.3-.25 2.6-.75 3.86-.15.37-.33.76-.55 1.17-.15.27-.31.54-.48.81-1.32 2.01-3.17 3.42-5.23 3.98-2.06-.56-3.91-1.97-5.23-3.98-.17-.27-.33-.54-.48-.81-.22-.41-.4-.79-.55-1.17-.48-1.26-.73-2.56-.73-3.86V6.27l7-3.21m0-1.1L4 5.63v5.49c0 1.47.3 2.9.81 4.22.17.44.37.86.6 1.28.16.3.34.6.52.88 1.42 2.17 3.52 3.82 5.95 4.44l.12.02.12-.03c2.43-.61 4.53-2.26 5.95-4.43.19-.29.36-.58.52-.88.22-.41.43-.84.6-1.28.51-1.33.81-2.76.81-4.23V5.63l-8-3.67zm1.08 10.15c-.32-.06-.64-.11-.96-.12A2.997 2.997 0 0012 6a2.996 2.996 0 00-.12 5.99c-.32.01-.64.06-.96.12C8.64 12.58 7 14.62 7 17h10c0-2.38-1.64-4.42-3.92-4.89zM10 9c0-1.1.9-2 2-2s2 .9 2 2-.9 2-2 2-2-.9-2-2zm1.12 4.09c.37-.08.64-.11.88-.11s.51.03.88.11c1.48.3 2.63 1.46 3 2.91H8.12c.37-1.45 1.52-2.61 3-2.91z"
+            ></path>
+          </svg>
+          <span>Your data in YouTube</span>
+        </a>
+      </div>
+      <div class="active">
+        <a href="#" class="items">
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            viewBox="0 0 24 24"
+            focusable="false"
+            style="
+              pointer-events: none;
+              display: inherit;
+              width: 24;
+              height: 24;
+            "
+          >
+            <path
+              d="M12 22C10.93 22 9.86998 21.83 8.83998 21.48L7.41998 21.01L8.83998 20.54C12.53 19.31 15 15.88 15 12C15 8.12 12.53 4.69 8.83998 3.47L7.41998 2.99L8.83998 2.52C9.86998 2.17 10.93 2 12 2C17.51 2 22 6.49 22 12C22 17.51 17.51 22 12 22ZM10.58 20.89C11.05 20.96 11.53 21 12 21C16.96 21 21 16.96 21 12C21 7.04 16.96 3 12 3C11.53 3 11.05 3.04 10.58 3.11C13.88 4.81 16 8.21 16 12C16 15.79 13.88 19.19 10.58 20.89Z"
+            ></path>
+          </svg>
+
+          <div class="siam"><span>Appearance: Device theme</span></div>
+          <div class="sidbar_lasden">
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              height="24"
+              viewBox="0 0 24 24"
+              width="24"
+              focusable="false"
+              style="
+                pointer-events: none;
+                display: inherit;
+                width: 24;
+                height: 24;
+              "
+            >
+              <path
+                d="m9.4 18.4-.7-.7 5.6-5.6-5.7-5.7.7-.7 6.4 6.4-6.3 6.3z"
+              ></path>
+            </svg>
+          </div>
+        </a>
+      </div>
+      <div class="active">
+        <a href="#" class="items">
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            enable-background="new 0 0 24 24"
+            height="24"
+            viewBox="0 0 24 24"
+            width="24"
+            focusable="false"
+            style="
+              pointer-events: none;
+              display: inherit;
+              width: 24;
+              height: 24;
+            "
+          >
+            <path
+              d="M13.33 6c-1 2.42-2.22 4.65-3.57 6.52l2.98 2.94-.7.71-2.88-2.84c-.53.67-1.06 1.28-1.61 1.83l-3.19 3.19-.71-.71 3.19-3.19c.55-.55 1.08-1.16 1.6-1.83l-.16-.15c-1.11-1.09-1.97-2.44-2.49-3.9l.94-.34c.47 1.32 1.25 2.54 2.25 3.53l.05.05c1.2-1.68 2.29-3.66 3.2-5.81H2V5h6V3h1v2h7v1h-2.67zM22 21h-1l-1.49-4h-5.02L13 21h-1l4-11h2l4 11zm-2.86-5-1.86-5h-.56l-1.86 5h4.28z"
+            ></path>
+          </svg>
+
+          <div class="siam"><span>Language: English</span></div>
+          <div class="sidbar_lasden">
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              height="24"
+              viewBox="0 0 24 24"
+              width="24"
+              focusable="false"
+              style="
+                pointer-events: none;
+                display: inherit;
+                width: 24;
+                height: 24;
+              "
+            >
+              <path
+                d="m9.4 18.4-.7-.7 5.6-5.6-5.7-5.7.7-.7 6.4 6.4-6.3 6.3z"
+              ></path>
+            </svg>
+          </div>
+        </a>
+      </div>
+      <div class="active">
+        <a href="#" class="items">
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            viewBox="0 0 24 24"
+            focusable="false"
+            style="
+              pointer-events: none;
+              display: inherit;
+              width: 24;
+              height: 24;
+            "
+          >
+            <path
+              d="M12 20.95Q8.975 20.075 6.987 17.312Q5 14.55 5 11.1V5.7L12 3.075L19 5.7V11.35Q18.775 11.275 18.5 11.2Q18.225 11.125 18 11.075V6.375L12 4.15L6 6.375V11.1Q6 12.575 6.438 13.938Q6.875 15.3 7.625 16.438Q8.375 17.575 9.413 18.425Q10.45 19.275 11.625 19.725L11.675 19.7Q11.8 20 11.975 20.288Q12.15 20.575 12.375 20.825Q12.275 20.85 12.188 20.888Q12.1 20.925 12 20.95ZM17 17Q17.625 17 18.062 16.562Q18.5 16.125 18.5 15.5Q18.5 14.875 18.062 14.438Q17.625 14 17 14Q16.375 14 15.938 14.438Q15.5 14.875 15.5 15.5Q15.5 16.125 15.938 16.562Q16.375 17 17 17ZM17 20Q17.8 20 18.438 19.65Q19.075 19.3 19.5 18.7Q18.925 18.35 18.3 18.175Q17.675 18 17 18Q16.325 18 15.7 18.175Q15.075 18.35 14.5 18.7Q14.925 19.3 15.562 19.65Q16.2 20 17 20ZM17 21Q15.325 21 14.163 19.837Q13 18.675 13 17Q13 15.325 14.163 14.162Q15.325 13 17 13Q18.675 13 19.837 14.162Q21 15.325 21 17Q21 18.675 19.837 19.837Q18.675 21 17 21ZM12 11.95Q12 11.95 12 11.95Q12 11.95 12 11.95Q12 11.95 12 11.95Q12 11.95 12 11.95Q12 11.95 12 11.95Q12 11.95 12 11.95Q12 11.95 12 11.95Q12 11.95 12 11.95Q12 11.95 12 11.95Q12 11.95 12 11.95Z"
+            ></path>
+          </svg>
+
+          <div class="siam"><span>Restricted Mode: Off</span></div>
+          <div class="sidbar_lasden">
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              height="24"
+              viewBox="0 0 24 24"
+              width="24"
+              focusable="false"
+              style="
+                pointer-events: none;
+                display: inherit;
+                width: 24;
+                height: 24;
+              "
+            >
+              <path
+                d="m9.4 18.4-.7-.7 5.6-5.6-5.7-5.7.7-.7 6.4 6.4-6.3 6.3z"
+              ></path>
+            </svg>
+          </div>
+        </a>
+      </div>
+      <div class="active">
+        <a href="#" class="items">
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            viewBox="0 0 24 24"
+            focusable="false"
+            style="
+              pointer-events: none;
+              display: inherit;
+              width: 24;
+              height: 24;
+            "
+          >
+            <path
+              d="M11.99,1.98C6.46,1.98,1.98,6.47,1.98,12s4.48,10.02,10.01,10.02c5.54,0,10.03-4.49,10.03-10.02S17.53,1.98,11.99,1.98z M8.86,14.5c-0.16-0.82-0.25-1.65-0.25-2.5c0-0.87,0.09-1.72,0.26-2.55h6.27c0.17,0.83,0.26,1.68,0.26,2.55 c0,0.85-0.09,1.68-0.25,2.5H8.86z M14.89,15.5c-0.54,1.89-1.52,3.64-2.89,5.15c-1.37-1.5-2.35-3.25-2.89-5.15H14.89z M9.12,8.45 c0.54-1.87,1.52-3.61,2.88-5.1c1.36,1.49,2.34,3.22,2.88,5.1H9.12z M16.15,9.45h4.5c0.24,0.81,0.37,1.66,0.37,2.55 c0,0.87-0.13,1.71-0.36,2.5h-4.51c0.15-0.82,0.24-1.65,0.24-2.5C16.39,11.13,16.3,10.28,16.15,9.45z M20.29,8.45h-4.38 c-0.53-1.97-1.47-3.81-2.83-5.4C16.33,3.45,19.04,5.56,20.29,8.45z M10.92,3.05c-1.35,1.59-2.3,3.43-2.83,5.4H3.71 C4.95,5.55,7.67,3.44,10.92,3.05z M3.35,9.45h4.5C7.7,10.28,7.61,11.13,7.61,12c0,0.85,0.09,1.68,0.24,2.5H3.34 c-0.23-0.79-0.36-1.63-0.36-2.5C2.98,11.11,3.11,10.26,3.35,9.45z M3.69,15.5h4.39c0.52,1.99,1.48,3.85,2.84,5.45 C7.65,20.56,4.92,18.42,3.69,15.5z M13.09,20.95c1.36-1.6,2.32-3.46,2.84-5.45h4.39C19.08,18.42,16.35,20.55,13.09,20.95z"
+            ></path>
+          </svg>
+
+          <div class="siam"><span> Location: Bangladesh</span></div>
+          <div class="sidbar_lasden">
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              height="24"
+              viewBox="0 0 24 24"
+              width="24"
+              focusable="false"
+              style="
+                pointer-events: none;
+                display: inherit;
+                width: 24;
+                height: 24;
+              "
+            >
+              <path
+                d="m9.4 18.4-.7-.7 5.6-5.6-5.7-5.7.7-.7 6.4 6.4-6.3 6.3z"
+              ></path>
+            </svg>
+          </div>
+        </a>
+      </div>
+      <div class="active">
+        <a href="#" class="items">
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            height="24"
+            style="
+              pointer-events: none;
+              display: inherit;
+              width: 24;
+              height: 24;
+            "
+            viewBox="0 0 24 24"
+            width="24"
+            focusable="false"
+          >
+            <path
+              d="M16 16H8v-2h8v2zm0-5h-2v2h2v-2zm3 0h-2v2h2v-2zm-6 0h-2v2h2v-2zm-3 0H8v2h2v-2zm-3 0H5v2h2v-2zm9-3h-2v2h2V8zm3 0h-2v2h2V8zm-6 0h-2v2h2V8zm-3 0H8v2h2V8zM7 8H5v2h2V8zm15-3v14H2V5h20zm-1 1H3v12h18V6z"
+            ></path>
+          </svg>
+          <span>Keyboard shortcuts</span>
+        </a>
+      </div>
+    </div>
+    <hr class="hr" />
   </div>
 </template>
 
@@ -150,7 +361,7 @@ export default {};
 <style scoped>
 .popup_header {
   width: 300px;
-  height: 50vh;
+  height: 80vh;
   font-family: "Roboto", sans-serif;
   margin-top: 2px;
   border-radius: 5px;
@@ -175,7 +386,6 @@ img {
   margin: 4px;
   font-size: 16px;
   font-weight: 400;
-
   line-height: 22px;
   color: rgb(15, 15, 15);
 }
@@ -220,7 +430,7 @@ a {
 .sidbar-categoru {
   display: flex;
   align-items: center;
-  padding: 9px 15px;
+  padding: 6px 15px;
 }
 
 .siam {
@@ -252,7 +462,7 @@ a {
 .sidbar-categorus {
   display: flex;
   align-items: center;
-  padding: 10px 25px;
+  padding: 5px 15px;
 }
 
 .sidbar-categorus span {
@@ -276,7 +486,7 @@ a {
 
 .md_1 {
   display: flex;
-  padding: 2px 22px;
+  padding: 2px 18px;
   margin-top: 10px;
 }
 
@@ -301,7 +511,7 @@ a {
   align-items: center;
   margin-bottom: 2px;
   margin-left: 2px;
-  padding: 9px 15px;
+  padding: 6px 15px;
 }
 
 .items_1:hover {
@@ -319,7 +529,7 @@ a {
   align-items: center;
   margin-bottom: 2px;
   margin-left: 2px;
-  padding: 10px 25px;
+  padding: 6px 15px;
 }
 
 .active span {
@@ -333,7 +543,7 @@ a {
 }
 
 .active:hover {
-  background: #e0dddd;
+  background: #f2f2f2;
 }
 
 hr {

@@ -3,7 +3,7 @@
     <!-- <h1>Recommended</h1> -->
     <div class="videos_container">
       <!-- Single video Starts -->
-      <a href="#" class="video">
+      <div class="video">
         <div class="video_thumbnail">
           <iframe
             src="https://www.youtube.com/embed/w9eiSy2EWH8?si=bkx1GpLxn_5V-lwW"
@@ -31,10 +31,10 @@
             <span>5k views . Months Ago</span>
           </div>
         </div>
-      </a>
+      </div>
 
       <!-- Single video Savean -->
-      <a href="#" class="video">
+      <div class="video">
         <div class="video_thumbnail">
           <iframe
             width="560"
@@ -61,9 +61,9 @@
             <span>1.4M views . 1 Year ago</span>
           </div>
         </div>
-      </a>
+      </div>
       <!-- Single video Thred -->
-      <a href="#" class="video">
+      <div class="video">
         <div class="video_thumbnail">
           <iframe
             width="560"
@@ -90,9 +90,9 @@
             <span>1M views . Months Ago</span>
           </div>
         </div>
-      </a>
+      </div>
       <!-- Single video Fore -->
-      <a href="#" class="video">
+      <div class="video">
         <div class="video_thumbnail">
           <iframe
             width="560"
@@ -115,9 +115,9 @@
             <span>73K views . 1 months ago</span>
           </div>
         </div>
-      </a>
+      </div>
       <!-- Single video Five -->
-      <a href="#" class="video">
+      <div class="video">
         <div class="video_thumbnail">
           <iframe
             width="560"
@@ -148,9 +148,9 @@
             <span>3.9M views . 1 year ago</span>
           </div>
         </div>
-      </a>
+      </div>
       <!-- Single video Six -->
-      <a href="#" class="video">
+      <div class="video">
         <div class="video_thumbnail">
           <iframe
             width="300"
@@ -178,9 +178,9 @@
             <span>828K views . 1 year ago</span>
           </div>
         </div>
-      </a>
+      </div>
       <!-- Single video Siven -->
-      <a href="#" class="video">
+      <div class="video">
         <div class="video_thumbnail">
           <iframe
             width="560"
@@ -207,10 +207,10 @@
             <span>122 views . 1 dey ago</span>
           </div>
         </div>
-      </a>
+      </div>
 
       <!-- Single video Eight -->
-      <a href="#" class="video">
+      <div class="video">
         <div class="video_thumbnail">
           <iframe
             width="560"
@@ -237,10 +237,10 @@
             <span>948M views . 6 yeas ago</span>
           </div>
         </div>
-      </a>
+      </div>
 
       <!-- Single video Nine -->
-      <a href="#" class="video">
+      <div class="video">
         <div class="video_thumbnail">
           <iframe
             width="560"
@@ -267,9 +267,9 @@
             <span>482M views . 4 months ago</span>
           </div>
         </div>
-      </a>
+      </div>
       <!-- Single video Tane -->
-      <a href="#" class="video">
+      <div class="video">
         <div class="video_thumbnail">
           <iframe
             width="560"
@@ -299,9 +299,9 @@
             <span>47M views . 1 month ago</span>
           </div>
         </div>
-      </a>
+      </div>
       <!-- Single video Eleven -->
-      <a href="#" class="video">
+      <div class="video">
         <div class="video_thumbnail">
           <iframe
             width="560"
@@ -330,9 +330,9 @@
             <span>218M views . 5 year Ago</span>
           </div>
         </div>
-      </a>
+      </div>
       <!-- Single video T12 -->
-      <a href="#" class="video">
+      <div class="video">
         <div class="video_thumbnail">
           <iframe
             width="560"
@@ -362,9 +362,9 @@
             <span>7.8M views . 6 months ago</span>
           </div>
         </div>
-      </a>
+      </div>
       <!-- Single video T13 -->
-      <a href="#" class="video">
+      <div class="video">
         <div class="video_thumbnail">
           <iframe
             width="560"
@@ -391,9 +391,9 @@
             <span>124M views . 1 year ago</span>
           </div>
         </div>
-      </a>
+      </div>
       <!-- Single video FT14 -->
-      <a href="#" class="video">
+      <div class="video">
         <div class="video_thumbnail">
           <iframe
             width="560"
@@ -427,9 +427,9 @@
             <span>76M views . 1 year ago</span>
           </div>
         </div>
-      </a>
+      </div>
       <!-- Single video FIT15 -->
-      <a href="#" class="video">
+      <div class="video">
         <div class="video_thumbnail">
           <iframe
             width="560"
@@ -458,14 +458,14 @@
             <h3>
               যে ৫টি অভ্যাস আমাকে ইংরেজি শিখতে অনেক Help করেছে <br />Used, Easy
             </h3>
-            <a href="">Munzereen Shahid</a>
+            <a href="#">Munzereen Shahid</a>
             <span>80k views . 2Months Ago</span>
           </div>
         </div>
-      </a>
+      </div>
       <!-- Single video FIT16 -->
 
-      <a href="#" class="video">
+      <div class="video">
         <div class="video_thumbnail">
           <iframe
             width="560"
@@ -482,19 +482,17 @@
           <div class="author">
             <img
               src="../views/imeg/profile.img/channels4_profile 6.jpg"
-              alt=""
+              alt="#"
             />
           </div>
 
           <div class="title">
-            <h3>
-              যে ৫টি অভ্যাস আমাকে ইংরেজি শিখতে অনেক Help করেছে <br />Used, Easy
-            </h3>
-            <a href="">Munzereen Shahid</a>
-            <span>80k views . 2Months Ago</span>
+            <h3>নিজে নিজেই ইংরেজি শিখুন AI টিউটরের সাথে - vocalo.ai</h3>
+            <a href="#"> CONNEKT STUDIO</a>
+            <span>160K views 2 months ago</span>
           </div>
         </div>
-      </a>
+      </div>
     </div>
   </div>
 </template>
@@ -522,7 +520,6 @@ export default {};
 
 .video {
   width: 370px;
-
   margin-right: 10px;
   margin-bottom: 30px;
 }
@@ -541,6 +538,7 @@ export default {};
 .video_details {
   display: flex;
   margin-top: 10px;
+  cursor: pointer;
 }
 
 .author img {
@@ -549,6 +547,7 @@ export default {};
   width: 40px;
   height: 40px;
   margin-right: 10px;
+  cursor: pointer;
 }
 
 .title {
