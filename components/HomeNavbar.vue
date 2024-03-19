@@ -441,7 +441,7 @@ export default {};
   height: 80vh;
   font-family: "Roboto", sans-serif;
   margin-top: 2px;
-  border-radius: 5px;
+  border-radius: 5rem;
 }
 
 img {
