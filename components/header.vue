@@ -211,16 +211,27 @@ body {
 }
 
 .popup {
-  /* width: 300px;
-  height: 50vh; */
   position: fixed;
   top: 3.7rem;
-  right: 30px;
+  right: 28px;
   border-radius: 5px;
   background: #ffffff;
   border: 1px solid #ffffff;
   box-shadow: 0 0 10px #ffffff;
   z-index: 1000;
+}
+
+@media only screen and (max-width: 375px) {
+  .popup {
+    position: fixed;
+    top: 3.6rem;
+    right: 22px;
+    border-radius: 3px;
+    background: #ffffff;
+    border: 1px solid #ffffff;
+    box-shadow: 0 0 10px #ffffff;
+    z-index: 1000;
+  }
 }
 
 .header {
