@@ -479,9 +479,66 @@ img {
   margin-top: 10px;
 }
 
+@media only screen and (max-width: 375px) {
+  .popup_header {
+    width: 230px;
+    height: 75vh;
+    font-family: "Roboto", sans-serif;
+    margin-top: 1px;
+  }
+
+  .popup_content {
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+  }
+
+  .popup-img {
+    margin-left: 10px;
+    margin-top: 4px;
+  }
+
+  img {
+    width: 10%;
+    height: 10%;
+  }
+
+  .popup-img p {
+    margin: 2px;
+    font-size: 12px;
+    font-weight: 200;
+    line-height: 14px;
+  }
+
+  .popup-img a {
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 10px;
+  }
+  .hr {
+    margin-top: 5px;
+  }
+
+  .siam {
+    display: flex;
+    width: 100%;
+    font-size: 10px;
+  }
+
+  .sidbar_categorus {
+    display: flex;
+    align-items: center;
+  }
+
+  .sidbar-categoru span {
+    margin-left: 10px;
+    font-size: 12px;
+  }
+}
 /* header end */
 
 /* Google */
+
 .sidbar_categorus {
   display: flex;
   align-items: center;
