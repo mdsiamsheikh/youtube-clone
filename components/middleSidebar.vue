@@ -24,11 +24,11 @@
 
           <div class="title">
             <h3>
-              Introducing heyLuna.ai <br />
+              Introducing heyLuna.ai
               Your Own Personal AI assistant
             </h3>
-            <a href="">Connekt Studio</a>
-            <span>5k views . Months Ago</span>
+            <a href="">CONNEKT STUDIO</a>
+            <span>19k views 6 Months Ago</span>
           </div>
         </div>
       </div>
@@ -56,9 +56,9 @@
           </div>
 
           <div class="title">
-            <h3>Amazon in 4K -The World's<br />Largest Tropical Rainforesr</h3>
+            <h3>Amazing Scene of Wild Animals In 4K - Scenic Relaxation Film</h3>
             <a href="">Scenic Scenes</a>
-            <span>1.4M views . 1 Year ago</span>
+            <span>9M views . 2 Year ago</span>
           </div>
         </div>
       </div>
@@ -78,16 +78,15 @@
         </div>
         <div class="video_details">
           <div class="author">
-            <img src="../views/imeg/profile.img/unnamed.jpg" alt="" />
+            <img src="../views/imeg/profile.img/unnamed (1).jpg" alt="" />
           </div>
 
           <div class="title">
             <h3>
-              4K Virtual Forest Walk along Middle<br />Fork Trail Snopualmie
-              region.
+              4K Forest Walk along Middle Fork Snoqualmie River Trail - Hiking with relaxing nature sounds
             </h3>
-            <a href="">FutureCoodes</a>
-            <span>1M views . Months Ago</span>
+            <a href="">4K Relaxation Channel</a>
+            <span>64K views  1 year ago</span>
           </div>
         </div>
       </div>
@@ -110,9 +109,9 @@
           </div>
 
           <div class="title">
-            <h3>Ei Obelay | এই অবেলায়<br />Rabbi Hossain</h3>
+            <h3>Ei Obelay | এই অবেলায় | Rabbi Hossain | Cover Video</h3>
             <a href="">Rabbi Lifestyle</a>
-            <span>73K views . 1 months ago</span>
+            <span>84K views  1 year ago</span>
           </div>
         </div>
       </div>
@@ -132,18 +131,11 @@
         </div>
         <div class="video_details">
           <div class="author">
-            <img
-              id="img"
-              draggable="false"
-              class="style-scope yt-img-shadow"
-              alt=""
-              width="24"
-              src="https://yt3.ggpht.com/ytc/AMLnZu_Ade29_lXpVwRmxhfI3ree8p9hyB-ymgsr85sdAw=s68-c-k-c0x00ffffff-no-rj"
-            />
+            <img src="../views/imeg/profile.img/unnamed.jpg" alt="">
           </div>
 
           <div class="title">
-            <h3>Norway in 8K<br />ULTRA HDR</h3>
+            <h3>Switzerland in 8K ULTRA HD HDR - Heaven of Earth (60 FPS)</h3>
             <a href="">8K World</a>
             <span>3.9M views . 1 year ago</span>
           </div>
